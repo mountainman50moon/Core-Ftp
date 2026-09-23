@@ -207,4 +207,4 @@ Core FTP is available as a **complete free version** with all features and updat
 Start transferring your files securely and efficiently today with **Core FTP**! Download now and experience the difference.
 
 ---
-**Last updated:** 2026-09-23 11:18:01 UTC
+**Last updated:** 2026-09-23 16:40:02 UTC
